@@ -1,0 +1,30 @@
+$color: rgb(51, 122, 183);
+$complimentary_color: #f5a6e3;
+
+
+th {
+  background-color: #f7e8fc
+}
+.table {
+  margin: 15px auto;
+  padding: 10px;
+  color: #726e73;
+  width: 75%;
+}
+
+i.fas,
+i.far {
+  color: $complimentary_color;
+  padding: 5px;
+
+}
+
+.home_icons {
+  a {
+  margin: 0 auto;
+  padding: 10px;
+  text-align: center;
+  color: $complimentary_color;
+  font-size: 24px;
+  }
+}

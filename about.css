@@ -1,0 +1,44 @@
+/* .flex-practice {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  flex-wrap: wrap;
+} */
+.col {
+  padding: 5px;
+  margin: auto 0;
+}
+
+.row {
+  margin: 0 auto;
+  text-align: center;
+}
+.my-row {
+  /* margin: 10px; */
+}
+img {
+  border-radius: 15%;
+}
+
+.home_icons a {
+  margin: 0 auto;
+  padding: 10px;
+  text-align: center;
+  font-size: 24px;
+  color: #f5a6e3
+}
+i.fas,
+i.far {
+  color: #f5a6e3;
+  padding: 5px;
+}
+p {
+  color: #f5a6e3;
+  padding: 5px;
+  margin: 2px;
+}
+@media screen and (max-width: 600px) {
+  .col {
+    width: 100%;
+  }
+}

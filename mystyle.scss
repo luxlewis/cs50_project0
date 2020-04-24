@@ -9,8 +9,8 @@ img {
 /*   float: left; */
 }
 .image-styler {
-    width: 200px;
-    height: 200px;
+    width: 350px;
+    height: 350px;
     /* position: relative; */
     /* left: 30px;
     top: 45px; */
@@ -19,7 +19,7 @@ img {
     margin: 0 auto;
 
 }
-.name {
+#name {
   text-align: center;
   /* position: relative; */
   margin: 0 auto;
@@ -29,11 +29,11 @@ img {
 
 }
 h1 {
-  font-size: 48px;
+  font-size: 40px;
   color: $color;
 }
 p {
-  font-size: 19px;
+  font-size: 16px;
   font-family: arial;
   color: gray;
 }
